@@ -13,7 +13,7 @@
  * Update URI:      https://github.com/jolle93/fact-um-double-optin-and-admin-approval
  * Text Domain:     ultimate-member
  * Domain Path:     /languages
- * UM version:      2.9.2
+ * UM version:      2.9.1
  */
 
 if ( ! defined( 'ABSPATH' ) ) {
