@@ -8,9 +8,9 @@
  * Author:          Julian Paul
  * License:         GPL v2 or later
  * License URI:     https://www.gnu.org/licenses/gpl-2.0.html
- * Author URI:
- * Plugin URI:
- * Update URI:
+ * Author URI:      https://github.com/jolle93/fact-um-double-optin-and-admin-approval
+ * Plugin URI:      https://github.com/jolle93/fact-um-double-optin-and-admin-approval
+ * Update URI:      https://github.com/jolle93/fact-um-double-optin-and-admin-approval
  * Text Domain:     ultimate-member
  * Domain Path:     /languages
  * UM version:      2.9.2
